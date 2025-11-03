@@ -1,0 +1,6 @@
+[submodule "food-calorie-vision-backend"]
+	path = food-calorie-vision-backend
+	url = https://github.com/food-calorie-vision/food-calorie-vision-backend.git
+[submodule "food-calorie-vision-frontend"]
+	path = food-calorie-vision-frontend
+	url = https://github.com/food-calorie-vision/food-calorie-vision-frontend.git
