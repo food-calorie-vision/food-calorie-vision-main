@@ -478,35 +478,7 @@ _건강한 식습관을 돕는 AI 헬스케어 팀_
 
 <br/>
 
-## 🤝 기여 & 라이선스
 
-<div align="center">
-
-### 어떻게 기여할 수 있나요?
-
-1. 🍴 Fork this repository  
-2. 🌿 새 브랜치 생성 (`feature/my-feature`)  
-3. ✅ 변경 사항 커밋  
-4. 🧪 테스트 실행  
-5. 📤 PR 생성  
-
-버그 리포트 및 기능 제안은  
-각 서브 프로젝트의 Issues 탭을 사용해주세요.
-
-<br/>
-
-### 📜 라이선스
-
-이 프로젝트는 **MIT License** 하에 배포됩니다.  
-자세한 내용은 각 저장소의 `LICENSE` 파일을 참고해주세요.
-
-</div>
-
-<br/>
-
----
-
-<br/>
 
 <div align="center">
 
